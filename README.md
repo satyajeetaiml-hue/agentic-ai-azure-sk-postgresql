@@ -51,3 +51,12 @@ tests/test_app.py
 
 ## 📄 License
 MIT — see [`LICENSE`](LICENSE).
+
+## 📊 Teaching slides
+
+Download the **7-slide deck** for classroom use: [`agentic-ai-azure-sk-postgresql.pptx`](slides/agentic-ai-azure-sk-postgresql.pptx)
+
+Prefer PDF? Download the **handout (slides + speaker notes)**: [`agentic-ai-azure-sk-postgresql-handout.pdf`](slides/agentic-ai-azure-sk-postgresql-handout.pdf)
+
+> Slides: Title · Learning goal · Enterprise use case · Architecture/flow · Key concepts · Run it · Architect's takeaways.
+
