@@ -1,0 +1,15 @@
+# Semantic Kernel needs a newer starlette than FastAPI 0.115 allows -> use fastapi>=0.136.
+fastapi>=0.136.0
+uvicorn[standard]>=0.34.0
+pydantic>=2.10
+pydantic-settings>=2.7
+python-dotenv>=1.0
+
+semantic-kernel>=1.0.0
+# Azure Database for PostgreSQL (lazy-imported; real backend only)
+psycopg[binary]>=3.2
+azure-identity>=1.19.0
+
+pytest>=8.3
+httpx>=0.28
+ruff>=0.8
