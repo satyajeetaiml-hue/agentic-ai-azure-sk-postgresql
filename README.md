@@ -1,5 +1,7 @@
 # Semantic Kernel + Azure PostgreSQL — Orders Assistant
 
+[![CI](https://github.com/satyajeetaiml-hue/agentic-ai-azure-sk-postgresql/actions/workflows/ci.yml/badge.svg)](https://github.com/satyajeetaiml-hue/agentic-ai-azure-sk-postgresql/actions/workflows/ci.yml)
+
 > Companion project to the *Agentic AI on Azure — Enterprise Master Class*.
 > Course hub: [azure-agentic-ai-masterclass](https://github.com/satyajeetaiml-hue/azure-agentic-ai-masterclass).
 
